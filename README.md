@@ -1,4 +1,4 @@
-* Bare metal cortex-m4 examples *
+# Bare metal cortex-m4 examples
 
 Written with help of this resourse:
 
